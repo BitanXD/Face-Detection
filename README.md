@@ -1,2 +1,2 @@
 # Face-Detection
-This is a project on Facedetection build on python with openCV
+This is a project on Facedetection build on python with openCV.The idea behind this technique involves using a cascade of classifiers to detect different features in an image. These classifiers are then combined into one strong classifier that can accurately distinguish between samples that contain a human face from those that don’t.The Haar Cascade classifier that is built into OpenCV has already been trained on a large dataset of human faces, so no further training is required. We just need to load the classifier from the library and use it to perform face detection on an input image.
